@@ -16,4 +16,4 @@ If you want to try to do it from scratch do not forget to add the following valu
   The way that I use was
   <script>System.import('main.js');</script>
   
-  I am going to do more example later.
+  I am going to do more examples later.
