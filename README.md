@@ -7,6 +7,7 @@ If you want to try to do it from scratch do not forget to add the following valu
 (unload project and edit the file)
   
   < TypeScriptEmitDecoratorMetadata >True < / TypeScriptEmitDecoratorMetadata >
+  
   < TypeScriptExperimentalDecorators >True < / TypeScriptExperimentalDecorators >
   
   The use of SystemJs is with the js file. I could use the same way the example shows.
