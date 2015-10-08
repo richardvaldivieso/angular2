@@ -11,9 +11,11 @@ If you want to try to do it from scratch do not forget to add the following valu
   < TypeScriptExperimentalDecorators >True < / TypeScriptExperimentalDecorators >
   
   The use of SystemJs is with the js file. I could use the same way the example shows.
+
   The example says:
-  <script>System.import('main');</script>
+  < script >System.import('main');< / script >
+  
   The way that I use was
-  <script>System.import('main.js');</script>
+  < script >System.import('main.js');< /script >
   
   I am going to do more examples later.
