@@ -5,6 +5,7 @@ The code is the same as https://angular.io/docs/js/latest/quickstart.html
 
 If you want to try to do it from scratch do not forget to add the following values in the csproj file:
 (unload project and edit the file)
+  
   < TypeScriptEmitDecoratorMetadata >True < / TypeScriptEmitDecoratorMetadata >
   < TypeScriptExperimentalDecorators >True < / TypeScriptExperimentalDecorators >
   
